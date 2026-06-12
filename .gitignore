@@ -1,0 +1,21 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Obsidian local cache/state
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/Cache/
+.obsidian/Code Cache/
+.obsidian/GPUCache/
+.obsidian/blob_storage/
+
+# Optional outputs
+outputs/*.png
+outputs/*.jpg
+outputs/*.jpeg
+outputs/*.pdf
